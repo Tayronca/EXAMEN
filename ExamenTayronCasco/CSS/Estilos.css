@@ -1,0 +1,14 @@
+.carousel-inner{
+    height:750px ;
+}   
+.carousel-caption{
+    height: 400px;
+    color: black;
+} 
+
+footer{
+    background: #202020;
+    color: white;
+    height: 110px;
+
+}
